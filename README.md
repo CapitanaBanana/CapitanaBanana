@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![snake gif](https://github.com/CapitanaBanana/CapitanaBanana/blob/output/github-contribution-grid-snake.gif)
 <!--
 **CapitanaBanana/CapitanaBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
