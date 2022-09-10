@@ -14,5 +14,5 @@ jobs:
             # Use this username's contribution graph  
             user_name: CapitanaBanana
             # Text on contribution graph 
-            text: TETAS
+            text: TETAS <3
        - uses: jasineri/simple-push-action@v1
