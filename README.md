@@ -2,7 +2,7 @@
 ![gitartwork](gitartwork.svg)
 <p align="center">
 ![text](https://user-images.githubusercontent.com/63492980/189462362-9596a769-1a5a-4c8d-a722-1bec9c2c37ba.gif)
-
+<p align="center">
 ![text (1)](https://user-images.githubusercontent.com/63492980/189462790-3efcf190-4ffc-4576-9850-f9ca635b5cbf.gif)
 ![text (2)](https://user-images.githubusercontent.com/63492980/189462794-5003ca55-eba8-4ddd-8f99-a65e33c3f4de.gif)
 
