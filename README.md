@@ -1,5 +1,7 @@
 
 ![gitartwork](gitartwork.svg)
+![image](https://user-images.githubusercontent.com/63492980/189462252-e6e6f0a8-11f1-473b-acd5-d5c9236dfbaf.png)
+
 <!--
 **CapitanaBanana/CapitanaBanana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
