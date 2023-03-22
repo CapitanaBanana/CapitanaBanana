@@ -1,6 +1,8 @@
 
 <p align="center">
 <img width="50%" src="https://user-images.githubusercontent.com/63492980/189466103-38ea428e-ea69-41ee-94c5-a31756e9ff6c.gif" />POV: sos la notebook de la facu viendo como no funca porque no inicializamos la lista en nil B)
+  
+  <img align="right" width="359" height="auto" alt="Capitana Banana's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CapitanaBanana&hide=_border=true&title_color=0ff54c&icon_color=0ff54c&text_color=c9d1d9&bg_color=0d1117&layout=compact&amp;show_icons=true&amp;">
   </p align="center">
 
 <p align="center">
